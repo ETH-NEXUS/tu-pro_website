@@ -13,6 +13,7 @@ navbar-links:
   Consortium: "consortium"
   Publications: "publications"
   Press: "press"
+  Internal: "internal"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com" # sub menus
   #  - Learn markdown: "https://www.markdowntutorial.com/"
 

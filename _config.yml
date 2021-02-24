@@ -4,7 +4,7 @@
 title: Tumor Profiler Study
 
 # Your name to show in the footer
-author: NEXUS (ETH Zurich)
+author: Tumor Profiler Consortium
 
 # --- List of links in the navigation bar --- #
 
@@ -13,7 +13,7 @@ navbar-links:
   Consortium: "consortium"
   Publications: "publications"
   Press: "press"
-  Internal: "internal"
+  Internal: "https://tp-cbioportal.inf.ethz.ch/"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com" # sub menus
   #  - Learn markdown: "https://www.markdowntutorial.com/"
 

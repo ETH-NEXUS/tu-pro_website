@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About the Tumor Profiler Study
+title: About the study
 path: "/about/"
 ---
 
-# The Tumor Profiler Study
-
 TuPro is a...
 
-# Vision
+## Vision
 
 Blabla
 

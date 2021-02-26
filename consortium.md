@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Consortium
+title: Consortium
 subtitle: E pluribus unum
 path: "/consortium/"
 ---
@@ -12,8 +12,16 @@ Add here the summary description of the consortium
 ## Institutions 
 <!-- Link to institution main site - group links follow below -->
 
-- [ETH Zurich](https://ethz.ch)
-- usw
+[![ETH Zurich](/tu-pro_website/assets/img/eth_logo.png)](https://ethz.ch)
+
+[![Roche](/tu-pro_website/assets/img/roche_logo.png)](https://www.roche.com)
+
+[![University Hospital of Basel](/tu-pro_website/assets/img/usb_logo.png)](https://www.unispital-basel.ch/)
+
+[![University Hospital of Zurich](/tu-pro_website/assets/img/usz_logo.png)](http://www.usz.ch/)
+
+[![University of Zurich](/tu-pro_website/assets/img/uzh_logo.png)](https://www.uzh.ch)
+
 
 ## Management Team
 
@@ -28,4 +36,6 @@ Add here the summary description of the consortium
 
 ## Data/IT
 
+- Data Management, [NEXUS](https://www.nexus.ethz.ch) Personalized Health Technologies, ETH Zurich
+- Reporting, [NEXUS](https://www.nexus.ethz.ch), ETH Zurich
 - usw

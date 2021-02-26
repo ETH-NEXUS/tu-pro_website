@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the study
+title: About TuPro
 path: "/about/"
 ---
 

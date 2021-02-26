@@ -11,11 +11,14 @@ author: Tumor Profiler Consortium
 navbar-links:
   About the project: "project"
   Consortium: "consortium"
+  Data Access: "data"
   Publications: "publications"
   Press: "press"
-  Internal: "https://tp-cbioportal.inf.ethz.ch/"
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com" # sub menus
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Internal: "internal"
+    - Metadata Access: "https://tp-labkey.ethz.ch/labkey/" # Labkey server
+    - Reporting: "https://tpreports.nexus.ethz.ch/" # Clinical reports
+    - cBioPortal: "https://tp-cbioportal.inf.ethz.ch/cbioportal/" # TuPro cBioPortal
+    - Documents: "https://tpreports.nexus.ethz.ch:9443/"
 
 # --- Logo --- #
 

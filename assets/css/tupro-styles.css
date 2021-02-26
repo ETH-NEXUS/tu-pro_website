@@ -12,16 +12,17 @@
     margin: 0;
     font-size: 0.975rem;
     font-weight: 300;
-    margin-bottom: 0.625rem;
+    margin-bottom: 0.425rem;
   }
   .post-preview .post-meta,
   .post-heading .post-meta {
     color: #808080;
-    font-size: 0.625rem;
+    font-size: 0.725rem;
     font-style: italic;
-    margin: 0 0 0.625rem;
+    margin: 0 0 0.425rem;
     font-family: 'Lora', 'Times New Roman', serif;
   }
-  .post-heading .post-meta {
-    display: inline-block;
+  .post-preview .post-entry {
+    font-size: 0.975rem;
+    width: 100%;
   }

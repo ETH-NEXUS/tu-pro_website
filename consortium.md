@@ -12,16 +12,25 @@ Add here the summary description of the consortium
 ## Institutions 
 <!-- Link to institution main site - group links follow below -->
 
-[![ETH Zurich](/tu-pro_website/assets/img/eth_logo.png =100x)](https://ethz.ch)
+<p align="center">
+<a href="https://ethz.ch"><img src="/../assets/img/eth_logo.png" alt="ETH Zurich" height="100"/></a>
+</p>
 
-[![Roche](/tu-pro_website/assets/img/roche_logo.png =100x)](https://www.roche.com)
+<p align="center">
+<a href="https://www.roche.com"><img src="/../assets/img/roche_logo.png" alt="Roche" height="100"/></a>
+</p>
 
-[![University Hospital of Basel](/tu-pro_website/assets/img/usb_logo.png =100x)](https://www.unispital-basel.ch/)
+<p align="center">
+<a href="https://www.unispital-basel.ch/"><img src="/../assets/img/usb_logo.png" alt="University Hospital Basel" width="350"/></a>
+</p>
 
-[![University Hospital of Zurich](/tu-pro_website/assets/img/usz_logo.png =100x)](http://www.usz.ch/)
+<p align="center">
+<a href="https://www.rusz.ch/"><img src="/../assets/img/usz_logo.png" alt="University Hospital Zurich" height="100"/></a>
+</p>
 
-[![University of Zurich](/tu-pro_website/assets/img/uzh_logo.png =100x)](https://www.uzh.ch)
-
+<p align="center">
+<a href="https://www.uzh.ch/"><img src="/../assets/img/uzh_logo.png" alt="University of Zurich" height="100"/></a>
+</p>
 
 ## Management Team
 

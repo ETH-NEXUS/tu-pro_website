@@ -5,11 +5,14 @@ subtitle: E pluribus unum
 path: "/consortium/"
 ---
 
+<!-- Please add institutions, members and groups in the same way as the exiting ones -->
+
 Add here the summary description of the consortium
 
-## Institutions
+## Institutions 
+<!-- Link to institution main site - group links follow below -->
 
-- [ETH Zurich](https://ethz.ch), represented by Detlef Günther (or whatever you want to appear here)
+- [ETH Zurich](https://ethz.ch)
 - usw
 
 ## Management Team

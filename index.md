@@ -4,10 +4,10 @@ title: Tumor Profiler
 subtitle: Integrated, multi-​omic, functional tumor profiling for clinical decision support
 ---
 
-(A banner picture would be nice)
+![Summary Figure](/tu-pro_website/assets/img/tupro_summary_figure.jpg)
 
-Tumor Profiler is a multi institution... add general introductory text here - concise (max 200 words)
+Tumor Profiler is a multi institution... add general introductory text here - concise
 
-# News
+## News
 
 <!-- Here news posts will be displayed -->

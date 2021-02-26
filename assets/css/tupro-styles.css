@@ -3,3 +3,25 @@
  * ONLY EDIT HERE, IF YOU KNOW WHAT YOU ARE DOING!
  * https://tu-pro.ch
  */
+
+ .post-preview .post-title {
+    font-size: 1.175rem;
+    margin-top: 0;
+  }
+  .post-preview .post-subtitle {
+    margin: 0;
+    font-size: 0.975rem;
+    font-weight: 300;
+    margin-bottom: 0.625rem;
+  }
+  .post-preview .post-meta,
+  .post-heading .post-meta {
+    color: #808080;
+    font-size: 0.625rem;
+    font-style: italic;
+    margin: 0 0 0.625rem;
+    font-family: 'Lora', 'Times New Roman', serif;
+  }
+  .post-heading .post-meta {
+    display: inline-block;
+  }

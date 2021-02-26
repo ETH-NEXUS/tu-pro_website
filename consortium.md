@@ -13,23 +13,23 @@ Add here the summary description of the consortium
 <!-- Link to institution main site - group links follow below -->
 
 <p align="center">
-<a href="https://ethz.ch"><img src="/../assets/img/eth_logo.png" alt="ETH Zurich" height="100"/></a>
+<a href="https://ethz.ch"><img src="/tu-pro_website/assets/img/eth_logo.png" alt="ETH Zurich" height="100"/></a>
 </p>
 
 <p align="center">
-<a href="https://www.roche.com"><img src="/../assets/img/roche_logo.png" alt="Roche" height="100"/></a>
+<a href="https://www.roche.com"><img src="/tu-pro_website/assets/img/roche_logo.png" alt="Roche" height="100"/></a>
 </p>
 
 <p align="center">
-<a href="https://www.unispital-basel.ch/"><img src="/../assets/img/usb_logo.png" alt="University Hospital Basel" width="350"/></a>
+<a href="https://www.unispital-basel.ch/"><img src="/tu-pro_website/assets/img/usb_logo.png" alt="University Hospital Basel" width="350"/></a>
 </p>
 
 <p align="center">
-<a href="https://www.rusz.ch/"><img src="/../assets/img/usz_logo.png" alt="University Hospital Zurich" height="100"/></a>
+<a href="https://www.usz.ch/"><img src="/tu-pro_website/assets/img/usz_logo.png" alt="University Hospital Zurich" height="100"/></a>
 </p>
 
 <p align="center">
-<a href="https://www.uzh.ch/"><img src="/../assets/img/uzh_logo.png" alt="University of Zurich" height="100"/></a>
+<a href="https://www.uzh.ch/"><img src="/tu-pro_website/assets/img/uzh_logo.png" alt="University of Zurich" height="100"/></a>
 </p>
 
 ## Management Team

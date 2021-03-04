@@ -32,15 +32,10 @@ Add here the summary description of the consortium
 <a href="https://www.uzh.ch/"><img src="/tu-pro_website/assets/img/uzh_logo.png" alt="University of Zurich" height="90"/></a>
 </p>
 
-## Management Team
-
-- Important person 1
-- Important person 2
-- usw
 
 ## Research Groups
 
-- Single-cell genomics & transcriptomis, Prof. Niko Beerenwinkel, [CBG](https://bsse.ethz.ch/cbg), ETH Zurich
+- Single-cell genomics & transcriptomics, Prof. Niko Beerenwinkel, [CBG](https://bsse.ethz.ch/cbg), ETH Zurich
 - usw
 
 ## Data/IT

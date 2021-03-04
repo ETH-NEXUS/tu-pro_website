@@ -32,19 +32,19 @@ Add here the summary description of the consortium
 <a href="https://www.uzh.ch/"><img src="/tu-pro_website/assets/img/uzh_logo.png" alt="University of Zurich" height="90"/></a>
 </p>
 
-## Management Team
-
-- Important person 1
-- Important person 2
-- usw
-
 ## Research Groups
+<!-- Use same logic for all groups; functin in TuPro, prof, name of group with link, institution -->
 
-- Single-cell genomics & transcriptomis, Prof. Niko Beerenwinkel, [CBG](https://bsse.ethz.ch/cbg), ETH Zurich
+- Single-cell genomics & transcriptomis, Prof. Niko Beerenwinkel, [Computational Biology Group](https://bsse.ethz.ch/cbg) & [NEXUS](https://www.nexus.ethz.ch), ETH Zurich
 - usw
 
 ## Data/IT
 
-- Data Management, [NEXUS](https://www.nexus.ethz.ch) Personalized Health Technologies, ETH Zurich
-- Reporting, [NEXUS](https://www.nexus.ethz.ch), ETH Zurich
+- Lead, Prof. Gunnar Rätsch, [Biomedical Informatics](https://bmi.inf.ethz.ch/) ETH Zurich, & Dr. Christian Kunze, [Digitalization & ICT](https://www.unispital-basel.ch/ueber-uns/ressorts/digitalisierung-ict/ueber-uns/leitung/), University Hospital Basel
+- Data Management, Dr. Nora Toussaint, [NEXUS](https://www.nexus.ethz.ch), ETH Zurich
+- Reporting, Dr. Daniel Stekhoven, [NEXUS](https://www.nexus.ethz.ch), ETH Zurich
 - usw
+
+## Consortium Author List
+
+Explain what it is and then have it as a downloadable text-only file? Or even copy to clipboard?

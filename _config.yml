@@ -18,7 +18,8 @@ navbar-links:
     - Metadata Access: "https://tp-labkey.ethz.ch/labkey/" # Labkey server
     - Reporting: "https://tpreports.nexus.ethz.ch/" # Clinical reports
     - cBioPortal: "https://tp-cbioportal.inf.ethz.ch/cbioportal/" # TuPro cBioPortal
-    - Documents: "https://tpreports.nexus.ethz.ch:9443/"
+    - Documents: "https://tpreports.nexus.ethz.ch:9443/" # Important administrative documents
+    - Wiki: "https://gitlab.inf.ethz.ch/PRJ-TumorProfiler/wiki/-/wikis" # Wiki for consortium members
 
 # --- Logo --- #
 

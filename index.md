@@ -6,7 +6,7 @@ subtitle: Integrated, multi-​omic, functional tumor profiling for clinical dec
 
 ![Summary Figure](/tu-pro_website/assets/img/tupro_summary_figure.jpg)
 
-Tumor Profiler is a multi institution... add general introductory text here - concise
+Under construction
 
 ## News
 

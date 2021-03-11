@@ -32,8 +32,10 @@ Add here the summary description of the consortium
 <a href="https://www.uzh.ch/"><img src="/tu-pro_website/assets/img/uzh_logo.png" alt="University of Zurich" height="90"/></a>
 </p>
 
-## Research Groups
-<!-- Use same logic for all groups; functin in TuPro, prof, name of group with link, institution -->
+Under construction
+
+<!-- ## Research Groups
+<!-- Use same logic for all groups; functin in TuPro, prof, name of group with link, institution
 
 - Single-cell genomics & transcriptomis, Prof. Niko Beerenwinkel, [Computational Biology Group](https://bsse.ethz.ch/cbg) & [NEXUS](https://www.nexus.ethz.ch), ETH Zurich
 - usw
@@ -47,4 +49,4 @@ Add here the summary description of the consortium
 
 ## Consortium Author List
 
-Explain what it is and then have it as a downloadable text-only file? Or even copy to clipboard?
+Explain what it is and then have it as a downloadable text-only file? Or even copy to clipboard?  -->

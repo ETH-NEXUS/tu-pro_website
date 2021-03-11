@@ -7,8 +7,6 @@ subtitle: E pluribus unum
 
 <!-- Please add institutions, members and groups in the same way as the exiting ones -->
 
-Add here the summary description of the consortium
-
 ## Institutions 
 <!-- Link to institution main site - group links follow below -->
 

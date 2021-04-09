@@ -2,7 +2,7 @@
 
 This repository hosts the source code for the Tumor Profiler Study [website](https://tu-pro.ch).
 
-For questions regarding use contact [stekhoven@nexus.ethz.ch](mailto:stekhoven@nexus.ethz.ch).
+For questions regarding use contact [gautier@nexus.ethz.ch](mailto:gautier@nexus.ethz.ch).
 
 It is based on [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) by [Dean Attali](https://deanattali.com/).
 
@@ -11,7 +11,8 @@ Required packages:
 - RubyGems
 - GCC and Make
 
-Command for installing the jekyll and bundler gems: **gem install jekyll bundler**
+Command for installing the jekyll and bundler gems: \
+**gem install jekyll bundler**
 
-To launch the website locally, run the following command in the root directory of the repository:
+To launch the website locally, run the following command in the root directory of the repository: \
 **bundle exec jekyll serve**

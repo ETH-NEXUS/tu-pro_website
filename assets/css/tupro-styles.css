@@ -4,7 +4,10 @@
  * https://tu-pro.ch
  */
 
- .post-preview .post-title {
+
+  /* ------ Post styles ------ */
+
+  .post-preview .post-title {
     font-size: 1.175rem;
     margin-top: 0;
   }
@@ -26,3 +29,23 @@
     font-size: 0.975rem;
     width: 100%;
   }
+
+
+  /* ------ Footer styles ------ */
+
+  #all-logos-container {
+    margin-bottom: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .logo-container {
+    padding: 1rem;
+  }
+
+  .footer-logo {
+    height: 50px;
+  }
+
+

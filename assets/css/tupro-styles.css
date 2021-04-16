@@ -48,4 +48,9 @@
     height: 50px;
   }
 
+  /* ------ Author list styles ------ */
+  #author-list {
+    text-align: justify;
+    text-justify: inter-word;
+  }
 

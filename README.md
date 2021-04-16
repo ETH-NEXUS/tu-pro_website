@@ -20,4 +20,3 @@ Command for installing the jekyll and bundler gems: \
 
 To launch the website locally, run the following command in the root directory of the repository: \
 **bundle exec jekyll serve**
-

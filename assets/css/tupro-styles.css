@@ -31,6 +31,18 @@
   }
 
 
+  .text-block {
+    text-align: justify;
+    text-justify: inter-word;
+    padding-bottom: 2rem;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+
+  .justify {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
   /* ------ Footer styles ------ */
 
   #all-logos-container {
@@ -47,10 +59,3 @@
   .footer-logo {
     height: 50px;
   }
-
-  /* ------ Author list styles ------ */
-  #author-list {
-    text-align: justify;
-    text-justify: inter-word;
-  }
-

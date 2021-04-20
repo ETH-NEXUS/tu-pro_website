@@ -7,7 +7,7 @@ subtitle: E pluribus unum
 
 <!-- Please add institutions, members and groups in the same way as the exiting ones -->
 
-## Isntitutions 
+## Institutions 
 <!-- Link to institution main site - group links follow below -->
 
 <p align="center">

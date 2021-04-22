@@ -48,3 +48,11 @@ Under construction
 ## Consortium Author List
 
 Explain what it is and then have it as a downloadable text-only file? Or even copy to clipboard?  -->
+
+## Consortium Author List
+
+<!-- Explain what it is and then have it as a downloadable text-only file? Or even copy to clipboard?  -->
+
+<div>
+    <a href="{{site.baseurl}}/consortium/authors/">List of authors</a>
+</div>

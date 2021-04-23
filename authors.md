@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Author list
+title: Authors
 path: "/consortium/authors/"
 permalink: /consortium/authors/
 ---

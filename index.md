@@ -11,7 +11,7 @@ subtitle: Integrated, multi-​omic, functional tumor profiling for clinical dec
     <br/><br/>
     For this study of melanoma, ovarian carcinoma, and acute myeloid leukemia tumors, in addition to the emerging standard diagnostic approaches of targeted NGS panel sequencing and digital pathology, extensive characterization is performed using the following exploratory technologies: single-cell genomics and transcriptomics, proteotyping, CyTOF, imaging CyTOF, pharmacoscopy, and 4i drug response profiling (4i DRP). 
     <br/><br/>
-    <a href="https://doi.org/10.1016/j.ccell.2021.01.004">[Irmisch et al., Cancer Cell, 2021]</a>
+    [<a href="https://doi.org/10.1016/j.ccell.2021.01.004">Irmisch et al., Cancer Cell, 2021</a>]
 </div>
 
 ## News

@@ -34,6 +34,7 @@
   .text-block {
     text-align: justify;
     text-justify: inter-word;
+    padding-top: 1rem;
     padding-bottom: 2rem;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }

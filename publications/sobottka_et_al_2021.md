@@ -5,7 +5,8 @@ path: "/sobottka_et_al_2021/"
 ---
 ## Establishing standardized immune phenotyping of metastatic melanoma by digital pathology
 
-Bettina Sobottka<sup>1</sup>, Marta Nowak, Anja L. Frei, Martina Haberecker, Samuel Merki, Tumor Profiler Consortium, Mitchell P. Levesque, Reinhard Dummer, Holger Moch, and Viktor H. Koelzer<sup>1</sup></br>
+Bettina Sobottka<sup>1</sup>, Marta Nowak, Anja L. Frei, Martina Haberecker, Samuel Merki, Tumor Profiler Consortium, Mitchell P. Levesque, Reinhard Dummer, Holger Moch, and Viktor H. Koelzer<sup>1</sup>
+
 <sup>1</sup>_Correspondence to: annabettina.sobottka-brillout@usz.ch, viktor.koelzer@usz.ch_
 
 ### Abstract

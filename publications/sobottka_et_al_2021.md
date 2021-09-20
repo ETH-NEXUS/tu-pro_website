@@ -20,3 +20,8 @@ speciﬁcity, and precision. We provide a robust diagnostic algorithm based on i
 center compartment that translates spatial densities of tumor-inﬁltrating CD8+ T cells into the clinically relevant immune diagnostic categories 
 “inﬂamed”, “excluded”, and “desert”. The consideration of the intratumoral tumor center compartment allows immune phenotyping in the clinically 
 highly relevant setting of metastatic lesions, even if the invasive margin compartment is not captured in biopsy material.
+
+
+### Publications
+
+- [Laboratory Investigation](https://www.nature.com/articles/s41374-021-00653-y.epdf?sharing_token=zj6h4b1ikYoK9ATQB91UQ9RgN0jAjWel9jnR3ZoTv0OwLvYJ-3vbsvwld1pwCyoLSQlwP-rzs3N8kqO-lbBLkvA-P21lujaErSYFQz9kk2kWMQ3Nf4GdIsy-8wO3AGMDOzotPKNndmzLPr1y9umzdIdFUm8wcjGwyCliGEG3qL4%3D), July 2021.

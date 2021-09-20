@@ -7,6 +7,7 @@ path: "/scim/"
 ## SCIM: Universal Single-Cell Matching with Unpaired Feature Sets
 
 Stefan G. Stark<sup>1</sup>, Joanna Ficek<sup>1</sup>, Francesco Locatello, Ximena Bonilla, Stéphane Chevrier, Franziska Singer, Tumor Profiler Consortium, Gunnar Rätsch<sup>2</sup>, Kjong-Van Lehmann<sup>2</sup>
+
 <sup>1</sup>_Equal contribution_<br/>
 <sup>2</sup>_Correspondence to: Gunnar.Ratsch@ratschlab.org, Kjong.Lehmann@inf.ethz.ch_
 

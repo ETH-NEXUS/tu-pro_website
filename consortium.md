@@ -58,7 +58,7 @@ Explain what it is and then have it as a downloadable text-only file? Or even co
 <div class="text-block">
     <br/>
     <i class="fas fa-file-download fontawesome-inline"></i>
-    <a href="{{site.baseurl}}/assets/tupro_author_list.docx" download>Download as a DOCX file</a>
+    <a href="{{site.baseurl}}/assets/tupro_author_list.20220905.docx" download>Download as a DOCX file</a>
     <br/><br/>
     <i class="fas fa-hand-point-right fontawesome-inline"></i>
     <a href="{{site.baseurl}}/consortium/authors/">Author list page</a>

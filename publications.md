@@ -17,4 +17,4 @@ path: "/publications/"
 
 * **[SCIM: universal single-cell matching with unpaired feature sets](/tu-pro_website/publications/scim/)**, Stark SG, Ficek J, Locatello F, Bonilla X, Chevrier S, Singer F, Tumor Profiler Consortium, Rätsch G,  Lehmann K (2020), _Bioinformatics_ [doi:10.1093/bioinformatics/btaa843](https://doi.org/10.1093/bioinformatics/btaa843)
 
-* **[CATALYST: An R-based reproducible and user-friendly preprocessing pipeline for CyTOF data](/tu-pro.ch/publications/catalyst/)**, Crowell HL, Chevrier S, Jacobs A,  Sivapatham S, Tumor Profiler Consortium, Bodenmiller B, Robinson MD (2020), _F1000Research_ [doi:10.12688/f1000research.26073.1](https://doi.org/10.12688/f1000research.26073.1)
+* **[CATALYST: An R-based reproducible and user-friendly preprocessing pipeline for CyTOF data](/tu-pro_website/publications/catalyst/)**, Crowell HL, Chevrier S, Jacobs A,  Sivapatham S, Tumor Profiler Consortium, Bodenmiller B, Robinson MD (2020), _F1000Research_ [doi:10.12688/f1000research.26073.1](https://doi.org/10.12688/f1000research.26073.1)

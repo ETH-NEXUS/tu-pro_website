@@ -16,4 +16,4 @@ Understanding the complex background of cancer requires genotype-phenotype infor
 
 ### Open access data
 
-[Tumor Profiler data](https://tpreports.nexus.ethz.ch/download/dondi_et_al_2022/patient2_aligned_only.sam): Sam file of patient 2 scDNA reads mapping to custom reference covering the IGF2BP2::TESPA1 fusion breakpoint sequence, as well as the wt TESPA1 and wt IGF2BP2 sequences surrounding the breakpoint”
+[Sam file of patient 2](https://tpreports.nexus.ethz.ch/download/dondi_et_al_2022/patient2_aligned_only.sam): scDNA reads mapping to custom reference covering the IGF2BP2::TESPA1 fusion breakpoint sequence, as well as the wt TESPA1 and wt IGF2BP2 sequences surrounding the breakpoint”

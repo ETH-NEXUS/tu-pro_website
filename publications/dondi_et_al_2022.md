@@ -1,3 +1,9 @@
+---
+layout: page
+title: ""
+path: "/dondi_et_al_2022/"
+---
+
 ## Detection of isoforms and genomic alterations by high-throughput full-length single-cell RNA sequencing for personalized oncology
 
 Arthur Dondi, Ulrike Lischetti, Francis Jacob, Franziska Singer, Nico Borgsmüller, Tumor Profiler Consortium, Viola Heinzelmann-Schwarz, Christian Beisel, Niko Beerenwinkel

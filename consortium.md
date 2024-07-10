@@ -30,25 +30,6 @@ subtitle: E pluribus unum
 <a href="https://www.uzh.ch/"><img src="/tu-pro_website/assets/img/uzh_logo.png" alt="University of Zurich" height="90"/></a>
 </p>
 
-Under construction<br/><br/>
-
-<!-- ## Research Groups
-<!-- Use same logic for all groups; functin in TuPro, prof, name of group with link, institution
-
-- Single-cell genomics & transcriptomis, Prof. Niko Beerenwinkel, [Computational Biology Group](https://bsse.ethz.ch/cbg) & [NEXUS](https://www.nexus.ethz.ch), ETH Zurich
-- usw
-
-## Data/IT
-
-- Lead, Prof. Gunnar Rätsch, [Biomedical Informatics](https://bmi.inf.ethz.ch/) ETH Zurich, & Dr. Christian Kunze, [Digitalization & ICT](https://www.unispital-basel.ch/ueber-uns/ressorts/digitalisierung-ict/ueber-uns/leitung/), University Hospital Basel
-- Data Management, Dr. Nora Toussaint, [NEXUS](https://www.nexus.ethz.ch), ETH Zurich
-- Reporting, Dr. Daniel Stekhoven, [NEXUS](https://www.nexus.ethz.ch), ETH Zurich
-- usw
-
-## Consortium Author List
-
-Explain what it is and then have it as a downloadable text-only file? Or even copy to clipboard?  -->
-
 ## Consortium Author List
 
 <!-- Explain what it is and then have it as a downloadable text-only file? Or even copy to clipboard?  -->
@@ -58,7 +39,7 @@ Explain what it is and then have it as a downloadable text-only file? Or even co
 <div class="text-block">
     <br/>
     <i class="fas fa-file-download fontawesome-inline"></i>
-    <a href="{{site.baseurl}}/assets/2023-11-23.TuPro_Consortium_Authors_for_Marker_Papers.docx" download>Download as a DOCX file</a>
+    <a href="{{site.baseurl}}/assets/2024-07-10.TuPro_Consortium_Authors_for_Marker_Papers.docx" download>Download as a DOCX file</a>
     <br/><br/>
     <i class="fas fa-hand-point-right fontawesome-inline"></i>
     <a href="{{site.baseurl}}/consortium/authors/">Author list page</a>
